@@ -7,7 +7,7 @@ I build evidence-grounded AI applications that combine large language models, do
 
 My engineering work spans Python, LangGraph, LangChain, AWS Bedrock, FastAPI, SQL, data-processing workflows, and CI/CD.
 
-## Featured Project — AEGIS
+## Featured Project - AEGIS
 
 **AI Evidence-Grounded Intelligence System**
 
