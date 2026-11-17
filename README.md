@@ -30,7 +30,6 @@ FastAPI and LangGraph investigation workflows that combine retrieval, read-only 
 
 Deterministic Python ETL, SQLite validation, operational analytics, CSV exports, and a Power BI reporting handoff using synthetic AEGIS-compatible data.
 
-- [Source repository](https://github.com/itsmyfacade/AEGIS-Intelligence-Observatory)
 - Includes reproducible data-quality checks and a browser dashboard companion.
 
 ### Sentiment Lab
