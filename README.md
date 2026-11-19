@@ -17,7 +17,7 @@ I build intelligent applications, backend services, and reliable automation acro
 
 ## Featured systems
 
-### [AEGIS — Evidence-Grounded AI Investigation System](https://github.com/itsmyfacade/RAG-AI-Evidence-Grounded-Intelligence-System)
+### [AEGIS - Evidence-Grounded AI Investigation System](https://github.com/itsmyfacade/RAG-AI-Evidence-Grounded-Intelligence-System)
 
 FastAPI and LangGraph investigation workflows that combine retrieval, read-only SQL analysis, structured synthesis, and citation validation over synthetic operational evidence.
 
